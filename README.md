@@ -1,9 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <b>ㅤㅤ!ㅤㅤ</b>
+</p>
 
+p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/43eb665d-94a6-43f2-9766-1e2712abeff8)>
+</p>
 <!--
 **pneumonoultramicros/pneumonoultramicros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>ㅤㅤ﹒ㅤㅤ⩇ㅤㅤ﹒ㅤㅤㅤㅤㅤ^____!</b>
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
